@@ -1,4 +1,3 @@
-# online-food-ordering-system
 # online food ordering system using the concepts of internet and web programming
 Restaurant management web app using Node.js, MongoDB.
 
