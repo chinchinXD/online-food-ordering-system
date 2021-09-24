@@ -18,3 +18,5 @@ JSON file:
 
 newDatabase is latest json file to import into mongodb 'items' collection.
 oldDatabase is deprecated and not functional. Data entries can be used if needed
+
+---sj
